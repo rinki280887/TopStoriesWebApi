@@ -1,0 +1,12 @@
+C:\TopStories\TopStoriesWebApi\topstory.service\bin\Debug\net5.0\topstory.service.deps.json
+C:\TopStories\TopStoriesWebApi\topstory.service\bin\Debug\net5.0\topstory.service.dll
+C:\TopStories\TopStoriesWebApi\topstory.service\bin\Debug\net5.0\ref\topstory.service.dll
+C:\TopStories\TopStoriesWebApi\topstory.service\bin\Debug\net5.0\topstory.service.pdb
+C:\TopStories\TopStoriesWebApi\topstory.service\obj\Debug\net5.0\topstory.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\TopStories\TopStoriesWebApi\topstory.service\obj\Debug\net5.0\topstory.service.AssemblyInfoInputs.cache
+C:\TopStories\TopStoriesWebApi\topstory.service\obj\Debug\net5.0\topstory.service.AssemblyInfo.cs
+C:\TopStories\TopStoriesWebApi\topstory.service\obj\Debug\net5.0\topstory.service.csproj.CoreCompileInputs.cache
+C:\TopStories\TopStoriesWebApi\topstory.service\obj\Debug\net5.0\topstory.service.dll
+C:\TopStories\TopStoriesWebApi\topstory.service\obj\Debug\net5.0\ref\topstory.service.dll
+C:\TopStories\TopStoriesWebApi\topstory.service\obj\Debug\net5.0\topstory.service.pdb
+C:\TopStories\TopStoriesWebApi\topstory.service\obj\Debug\net5.0\topstory.service.csproj.AssemblyReference.cache

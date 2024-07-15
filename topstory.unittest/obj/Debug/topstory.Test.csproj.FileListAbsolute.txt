@@ -1,0 +1,1 @@
+C:\TopStories\TopStoriesWebApi\topstory.unittest\obj\Debug\topstory.Test.csproj.CoreCompileInputs.cache
